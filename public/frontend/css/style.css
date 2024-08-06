@@ -1,0 +1,58 @@
+body {
+  font-family: "Montserrat";
+}
+.navbar {
+  background-color: rgb(17, 17, 17);
+  border-bottom: 1px solid #707070;
+}
+
+.nav-item {
+  margin-right: 20px;
+  font-weight: 200px;
+}
+
+.nav-link {
+  color: white;
+}
+
+a.btn {
+  border-radius: 20px;
+}
+
+/* carousel */
+.carousel {
+  height: 450px;
+  background-color: #171717;
+  color: white;
+}
+
+.publisher.img {
+  height: 100px;
+  width: 100px;
+}
+
+.features h3,
+.authors h3,
+.related-book h3,
+.cart-header h3 {
+  color: #1b2690;
+  font-weight: bold;
+}
+
+.figure h5 {
+  font-weight: bold;
+  color: #171717;
+}
+
+.figure a {
+  border-radius: 10px;
+}
+
+.breadcrumb {
+  margin-top: 100px;
+  background-color: transparent;
+}
+
+.related-book {
+  margin-top: 150px;
+}
